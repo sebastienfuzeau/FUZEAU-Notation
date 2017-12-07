@@ -1,4 +1,6 @@
 # FUZEAU-Notation
 
-**Nom: **FUZEAU
-**Prenom: **Sébastien
+**Nom :** FUZEAU
+
+**Prenom :** Sébastien
+
